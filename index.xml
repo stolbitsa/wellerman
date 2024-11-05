@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>wellerman</repo>
-  <version>v1.0.1</version>
+  <version>v1.0.2</version>
   <next number="1" owner="stolbitsa" repo="inca-roads-1"/>
   <readme>
     <ru>39003569c948ec310d555dc50c97c9e8968ece2b794621910c4641a8ab8939c0</ru>
@@ -52,19 +52,16 @@
     <bpm>96</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
-    <video name="15-wellerman-2.mp4" size="986602" type="video/mp4" volume="0.638">f3a2528430a7cfb68971a2c05b68a8977a81fa081e2168a9e28df785107b26d9</video>
+    <video name="15-wellerman-3.mp4" size="541359" type="video/mp4" volume="0.711">6594e16c686127bae5152707dcfd30f252787c4ff98a1674a4d1a37592cf2360</video>
     <notes>
-      <note number="1" values="5" ticks="90" durationTicks="46" ppq="96" velocity="0.832"/>
-      <note number="2" values="6" ticks="139" durationTicks="45" ppq="96" velocity="0.847"/>
-      <note number="3" values="4" ticks="187" durationTicks="14" ppq="96" velocity="0.802"/>
-      <note number="4" values="4" ticks="209" durationTicks="13" ppq="96" velocity="0.814"/>
-      <note number="5" values="4" ticks="235" durationTicks="46" ppq="96" velocity="0.837"/>
-      <note number="6" values="4" ticks="283" durationTicks="21" ppq="96" velocity="0.757"/>
-      <note number="7" values="6" ticks="307" durationTicks="23" ppq="96" velocity="0.762"/>
-      <note number="8" values="18" ticks="330" durationTicks="15" ppq="96" velocity="0.759"/>
-      <note number="9" values="18" ticks="353" durationTicks="23" ppq="96" velocity="0.812"/>
-      <note number="10" values="5" ticks="377" durationTicks="38" ppq="96" velocity="0.797"/>
-      <note number="11" values="5" ticks="427" durationTicks="47" ppq="96" velocity="0.769"/>
+      <note number="1" values="5" ticks="105" durationTicks="21" ppq="96" velocity="0.832"/>
+      <note number="2" values="1" ticks="127" durationTicks="38" ppq="96" velocity="0.847"/>
+      <note number="3" values="1" ticks="176" durationTicks="41" ppq="96" velocity="0.802"/>
+      <note number="4" values="1" ticks="224" durationTicks="44" ppq="96" velocity="0.814"/>
+      <note number="5" values="3" ticks="273" durationTicks="46" ppq="96" velocity="0.837"/>
+      <note number="6" values="5" ticks="319" durationTicks="33" ppq="96" velocity="0.757"/>
+      <note number="7" values="5" ticks="367" durationTicks="35" ppq="96" velocity="0.762"/>
+      <note number="8" values="5" ticks="416" durationTicks="41" ppq="96" velocity="0.759"/>
     </notes>
   </exercise>
   <exercise number="4">
@@ -72,19 +69,31 @@
     <bpm>96</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
-    <video name="15-wellerman-2.mp4" size="986602" type="video/mp4" volume="0.638">f3a2528430a7cfb68971a2c05b68a8977a81fa081e2168a9e28df785107b26d9</video>
+    <video name="15-wellerman-4.mp4" size="1000158" type="video/mp4" volume="0.723">103262f40041b943cbdf16dbae6e0a38ad5801224e06ed868814f54110cefad7</video>
     <notes>
-      <note number="1" values="5" ticks="90" durationTicks="46" ppq="96" velocity="0.832"/>
-      <note number="2" values="6" ticks="139" durationTicks="45" ppq="96" velocity="0.847"/>
-      <note number="3" values="4" ticks="187" durationTicks="14" ppq="96" velocity="0.802"/>
-      <note number="4" values="4" ticks="209" durationTicks="13" ppq="96" velocity="0.814"/>
-      <note number="5" values="4" ticks="235" durationTicks="46" ppq="96" velocity="0.837"/>
-      <note number="6" values="4" ticks="283" durationTicks="21" ppq="96" velocity="0.757"/>
-      <note number="7" values="6" ticks="307" durationTicks="23" ppq="96" velocity="0.762"/>
-      <note number="8" values="18" ticks="330" durationTicks="15" ppq="96" velocity="0.759"/>
-      <note number="9" values="18" ticks="353" durationTicks="23" ppq="96" velocity="0.812"/>
-      <note number="10" values="5" ticks="377" durationTicks="38" ppq="96" velocity="0.797"/>
-      <note number="11" values="5" ticks="427" durationTicks="47" ppq="96" velocity="0.769"/>
+      <note number="1" values="5" ticks="85" durationTicks="35" ppq="96" velocity="0.832"/>
+      <note number="2" values="5" ticks="133" durationTicks="45" ppq="96" velocity="0.847"/>
+      <note number="3" values="4" ticks="181" durationTicks="48" ppq="96" velocity="0.802"/>
+      <note number="4" values="3" ticks="230" durationTicks="12" ppq="96" velocity="0.814"/>
+      <note number="5" values="3" ticks="254" durationTicks="22" ppq="96" velocity="0.837"/>
+      <note number="6" values="2" ticks="278" durationTicks="42" ppq="96" velocity="0.757"/>
+      <note number="7" values="1" ticks="327" durationTicks="117" ppq="96" velocity="0.812"/>
+    </notes>
+  </exercise>
+  <exercise number="5">
+    <scale>minor</scale>
+    <bpm>96</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="15-wellerman-4.mp4" size="1000158" type="video/mp4" volume="0.723">103262f40041b943cbdf16dbae6e0a38ad5801224e06ed868814f54110cefad7</video>
+    <notes>
+      <note number="1" values="5" ticks="85" durationTicks="35" ppq="96" velocity="0.832"/>
+      <note number="2" values="5" ticks="133" durationTicks="45" ppq="96" velocity="0.847"/>
+      <note number="3" values="4" ticks="181" durationTicks="48" ppq="96" velocity="0.802"/>
+      <note number="4" values="3" ticks="230" durationTicks="12" ppq="96" velocity="0.814"/>
+      <note number="5" values="3" ticks="254" durationTicks="22" ppq="96" velocity="0.837"/>
+      <note number="6" values="2" ticks="278" durationTicks="42" ppq="96" velocity="0.757"/>
+      <note number="7" values="1" ticks="327" durationTicks="117" ppq="96" velocity="0.812"/>
     </notes>
   </exercise>
 </level>
