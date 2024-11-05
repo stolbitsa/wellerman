@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>wellerman</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="stolbitsa" repo="inca-roads-1"/>
   <readme>
     <ru>39003569c948ec310d555dc50c97c9e8968ece2b794621910c4641a8ab8939c0</ru>
@@ -12,19 +12,19 @@
   <exercise number="1">
     <scale>minor</scale>
     <bpm>96</bpm>
-    <lowestNote>85</lowestNote>
+    <lowestNote>87</lowestNote>
     <tonalities>1</tonalities>
-    <video name="15-wellerman-1.mp4" size="1436988" type="video/mp4" volume="1">1bf32a32397a41d99408d4e56f5ac1499ee61c3f4eebe106e02a1b2f7580619f</video>
+    <video name="15-wellerman-1.mp4" size="1436988" type="video/mp4" volume="0.741">1bf32a32397a41d99408d4e56f5ac1499ee61c3f4eebe106e02a1b2f7580619f</video>
     <notes>
-      <note number="1" values="85" ticks="244" durationTicks="58" ppq="96" velocity="0.409"/>
-      <note number="2" values="1" ticks="346" durationTicks="25" ppq="96" velocity="0.434"/>
-      <note number="3" values="1" ticks="350" durationTicks="46" ppq="96" velocity="0.491"/>
-      <note number="4" values="1" ticks="398" durationTicks="25" ppq="96" velocity="0.491"/>
-      <note number="5" values="3" ticks="446" durationTicks="46" ppq="96" velocity="0.491"/>
-      <note number="6" values="1" ticks="495" durationTicks="95" ppq="96" velocity="0.491"/>
-      <note number="7" values="1" ticks="576" durationTicks="95" ppq="96" velocity="0.491"/>
-      <note number="8" values="1" ticks="672" durationTicks="95" ppq="96" velocity="0.491"/>
-      <note number="9" values="1" ticks="768" durationTicks="95" ppq="96" velocity="0.491"/>
+      <note number="1" values="87" ticks="336" durationTicks="48" ppq="96" velocity="0.832"/>
+      <note number="2" values="1" ticks="385" durationTicks="34" ppq="96" velocity="0.884"/>
+      <note number="3" values="1" ticks="431" durationTicks="15" ppq="96" velocity="0.717"/>
+      <note number="4" values="1" ticks="455" durationTicks="13" ppq="96" velocity="0.759"/>
+      <note number="5" values="1" ticks="482" durationTicks="39" ppq="96" velocity="0.719"/>
+      <note number="6" values="3" ticks="528" durationTicks="45" ppq="96" velocity="0.819"/>
+      <note number="7" values="5" ticks="576" durationTicks="35" ppq="96" velocity="0.844"/>
+      <note number="8" values="5" ticks="624" durationTicks="38" ppq="96" velocity="0.852"/>
+      <note number="9" values="5" ticks="673" durationTicks="46" ppq="96" velocity="0.844"/>
     </notes>
   </exercise>
   <exercise number="2">
@@ -32,19 +32,19 @@
     <bpm>96</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
-    <video name="15-wellerman-2.mp4" size="986602" type="video/mp4" volume="0.638">f3a2528430a7cfb68971a2c05b68a8977a81fa081e2168a9e28df785107b26d9</video>
+    <video name="15-wellerman-2.mp4" size="986602" type="video/mp4" volume="0.681">f3a2528430a7cfb68971a2c05b68a8977a81fa081e2168a9e28df785107b26d9</video>
     <notes>
-      <note number="1" values="5" ticks="90" durationTicks="46" ppq="96" velocity="0.832"/>
-      <note number="2" values="6" ticks="139" durationTicks="45" ppq="96" velocity="0.847"/>
-      <note number="3" values="4" ticks="187" durationTicks="14" ppq="96" velocity="0.802"/>
-      <note number="4" values="4" ticks="209" durationTicks="13" ppq="96" velocity="0.814"/>
-      <note number="5" values="4" ticks="235" durationTicks="46" ppq="96" velocity="0.837"/>
-      <note number="6" values="4" ticks="283" durationTicks="21" ppq="96" velocity="0.757"/>
-      <note number="7" values="6" ticks="307" durationTicks="23" ppq="96" velocity="0.762"/>
-      <note number="8" values="18" ticks="330" durationTicks="15" ppq="96" velocity="0.759"/>
-      <note number="9" values="18" ticks="353" durationTicks="23" ppq="96" velocity="0.812"/>
-      <note number="10" values="5" ticks="377" durationTicks="38" ppq="96" velocity="0.797"/>
-      <note number="11" values="5" ticks="427" durationTicks="47" ppq="96" velocity="0.769"/>
+      <note number="1" values="5" ticks="95" durationTicks="46" ppq="96" velocity="0.832"/>
+      <note number="2" values="6" ticks="144" durationTicks="45" ppq="96" velocity="0.847"/>
+      <note number="3" values="4" ticks="192" durationTicks="14" ppq="96" velocity="0.802"/>
+      <note number="4" values="4" ticks="214" durationTicks="13" ppq="96" velocity="0.814"/>
+      <note number="5" values="4" ticks="240" durationTicks="37" ppq="96" velocity="0.837"/>
+      <note number="6" values="4" ticks="288" durationTicks="19" ppq="96" velocity="0.757"/>
+      <note number="7" values="6" ticks="312" durationTicks="13" ppq="96" velocity="0.762"/>
+      <note number="8" values="6" ticks="335" durationTicks="15" ppq="96" velocity="0.759"/>
+      <note number="9" values="18" ticks="358" durationTicks="23" ppq="96" velocity="0.812"/>
+      <note number="10" values="5" ticks="382" durationTicks="38" ppq="96" velocity="0.797"/>
+      <note number="11" values="5" ticks="432" durationTicks="47" ppq="96" velocity="0.769"/>
     </notes>
   </exercise>
   <exercise number="3">
