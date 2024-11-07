@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>wellerman</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="stolbitsa" repo="inca-roads-1"/>
   <readme>
-    <ru>39003569c948ec310d555dc50c97c9e8968ece2b794621910c4641a8ab8939c0</ru>
-    <en>8b88e38db15d08100cd898a1334ea7431729933cc58f9f90724da17f538a46cd</en>
+    <ru>46c30218c245a83332a67c953cb84ad450efb1814e1595260c34f9f110a11602</ru>
+    <en>e7ba76ec9b48b2e15b84a46d7724fe76d0ef95aa6327491162ebaad4bfe6ca99</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
